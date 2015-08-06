@@ -1,0 +1,9 @@
+Output.Location: /tmp/gck2015x.log
+Log.Level.CRITICAL: 1
+Log.Level.DEBUG: 1
+Log.Level.ERROR: 1
+Log.Level.INFO: 1
+Output.Type.DEBUGGER: 0
+Output.Type.StdErr: 1
+Output.Type.TextFile: 1
+Output.TextFile.MaxKByteSize: 0

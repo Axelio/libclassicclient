@@ -1,0 +1,29 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Classic Client PIN Management
+Name[ar]=ادارة كود العميل الكلاسكية
+Name[ca]=Gestió de PIN de Classic Client
+Name[cs]=Classic Client správa PIN
+Name[de]=Classic Client PIN Management
+Name[el]=Διαχείριση κωδικού PIN Classic Client
+Name[es]=Classic Client PIN Management
+Name[fr]=Classic Client PIN Management
+Name[hu]=Classic Client PIN-kezelési funkció
+Name[it]=Gestione PIN Classico Cliente
+Name[ja]=クラシッククライアントピンの管理
+Name[lt]=„Classic Client“ PIN kodo tvarkymas
+Name[lv]=Classic Client PIN pārvaldība
+Name[nl]=Classic Client PIN Management
+Name[pl]=Zarządzanie Kodem PIN Classic Client
+Name[pt]=Cliente clássico Gestão do PIN
+Name[sl]=Classic Client PIN upravljanje
+Name[sv]=Classic Client Säkerhetskodhantering
+Name[tr]=Classic Client PIN Yönetimi
+Name[zh]=Classic Client密码管理
+Name[zh_TW]=Classic Client密碼管理
+
+Exec=CCChangePinTool
+Terminal=false
+Type=Application
+Categories=System;Security;
+Icon=classicclient_logo.png

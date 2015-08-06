@@ -1,0 +1,123 @@
+This package was debianized by Gemplus SRP <softpack.supportl3@gemplus.com> on
+Wed, 19 Jan 2005 16:42:50 +0100.
+
+It was downloaded from nowhere
+
+Copyright: Gemalto
+
+Upstream Author: Gemalto SRP
+
+License:
+
+END USER LICENSE AGREEMENT
+
+IMPORTANT-READ CAREFULLY:  This End-User License Agreement for Gemplus software ("EULA") is a legal and binding agreement between you and the subsidiary or affiliate of Gemalto NV. ("Gemplus") that distributed this version of the Software (as defined below) under this EULA ("Gemplus").  "You" are a person or legal entity wishing to use the Software.  This EULA governs your use of all of the Software distributed or delivered hereunder.  "Software" means all computer software, associated media, any printed materials and any accompanying "online" or electronic information provided to you hereunder.  By downloading, installing, copying, breaking any seal on, or otherwise using the Software, you acknowledge that you have read this EULA and agree to be bound by its terms.  If you do not agree to the terms and provisions of this EULA, do not download, install, copy, or otherwise use the Software; if you have already broken the seal or paid for this Software and do not agree to the terms and conditions of the EULA, please return the Software and any accompanying items to Gemplus within thirty (30) days of the date of purchase for a full refund of amounts paid. If these terms are considered an offer, acceptance is expressly limited to these terms.
+1.	Ownership.  The Software is owned by Gemplus or its third party suppliers and is licensed (and not sold) to you. Gemplus's third party suppliers or distributors may assert and protect any of their rights (and with Gemplus's permission, Gemplus's rights) in connection with this EULA.
+
+2.	Grant of License.  Subject to the terms of this EULA, Gemplus grants you the world-wide, non-exclusive, non-sublicensable, non-transferable (except as set forth in this EULA), license to use one copy of the Software, in object code format, solely for your internal use.
+
+2.1 	You must reproduce on any copy all copyright notices and any other ownership, confidentiality or proprietary legends that are on the original copy of the Software and accompanying documentation, and you may make only one copy of the Software solely for backup or archival purposes, provided that such backup copy is not installed on any computer.
+
+2.2 	You may not reverse-engineer, decompile, or disassemble the Software, or otherwise reduce the code of the Software to a human perceivable form, except and only to the extent that the restriction of such activity is prohibited by applicable law, and in such event you shall provide Gemplus prompt notification of such activities. You may not alter or remove any of Gemplus's trademarks affixed to or otherwise contained on or within the Software.
+
+2.3	You may not market, distribute, transfer copies of the Software to others or electronically transfer the
+Software from one computer to another over a network except for Software installations permitted under Section 2 
+of this EULA.  You may not rent, lease, or lend the Software.  You may not modify, adapt or translate the Software or create derivative works based on the Software.
+
+2.4 	All rights not expressly granted to you in this EULA are reserved by Gemplus and its suppliers.  No rights are granted by implication or otherwise.
+
+3.	Termination.  This EULA may be terminated by Gemplus upon notice and without further action upon the breach of any of your obligations or the license rights granted to you under this EULA.  Upon termination, all use of the Software by you must cease and all rights granted to you under this EULA are terminated.  Upon termination you hereby agree to return to Gemplus or to destroy all copies of the Software in your possession or control within fourteen (14) days of such termination and certify the same in an affidavit to Gemplus upon request.  
+This remedy is in addition to any other remedies available to Gemplus.  Provisions contained in this EULA that expressly or by their sense and context are intended to survive the expiration or termination of this Agreement shall so survive the expiration or termination including without limitation Sections 1, 3, 4, and 7 through 10 hereof.
+
+4.	Proprietary Rights.  All rights, title, and proprietary rights in and to the Software (including, but not limited to, any patents, trade secrets, trademarks, copyrights, images, photographs, animations, video, audio, music, text, software code and "applets" incorporated into the Software) are owned by Gemplus or its suppliers.  The Software is protected by copyright laws, international treaty provisions, and other laws.  An act in violation of 
+this EULA may also be a crime punishable by fine or imprisonment under applicable law.  You understand that Gemplus may update or revise the Software in its sole discretion, but has no obligation to furnish any Software updates or revisions to you.  If you upgrade the Software to a higher-numbered or later version of the Software  (e.g., from Program 3.x to Program 4.x) or to a comparable Gemplus software product including versions for different operating systems ("Replacement Software"), unless otherwise indicated in any end user license agreement accompanying such Replacement Software, this EULA is terminated to the extent it covers the replaced 
+software and your rights in the Replacement Software will be governed by the end user license terms applicable to that Replacement Software.  If any Replacement Software, or other Software of Gemplus, is distributed to you without a separate end user license agreement, this EULA shall govern all your rights and obligations therein. 
+
+5.	Compliance with Laws. In the performance of the obligations under this Agreement, you shall at all times 
+comply with the laws, regulations, and orders in effect and applicable to their performance hereunder.  Without limiting the generality of the preceding sentence, you shall comply with applicable U.S. Foreign Corrupt Practices Act provisions (regarding, among other things, payments to government officials) and all applicable U.S. export laws and restrictions and regulations of the U.S. Department of Commerce, the Department of Treasury Office of Foreign Assets Control ("OFAC"), or other U.S. or non-U.S. agency or authority, and not export, or allow the export or re-export of any Gemplus product (or any product incorporating such Gemplus product) in violation of any such restrictions, laws or regulations. You shall obtain and bear all expenses relating to any necessary licenses and/or exemptions with respect to the export from the U.S. of all Gemplus products to any location and shall demonstrate to Gemplus compliance with all applicable laws and regulations prior to delivery thereof by Gemplus. 
+
+6. 	U.S. Government Restricted Rights.  If a user of the Software is an agency, department, or other entity of 
+the United States government (the "Government"), the use, duplication, reproduction, release, modification, disclosure, or transfer of such Software, or of any related documentation of any kind, including technical data, is restricted in accordance with Federal Acquisition Regulation ("FAR") 12.212, Defense Federal Acquisition Regulation Supplement ("DFARS") 227.7202, subparagraph (c)(1)(ii) of the Rights in Technical Data and Computer Software clause at DFARS 252.227-7013 or subparagraphs (c)(1) and (2) of the Commercial Computer Software-Restricted Rights at 48 CFR 52.227-19, as applicable.  The Software is commercial computer software and commercial computer software documentation.  The use of this Software by the Government is further restricted in accordance with the terms of this EULA. 
+
+7. 	Limited Warranty, Disclaimer of Implied Warranties & Duties, Limited Warranty Remedy.
+
+7.1  	Disclaimer of Implied Warranties and Duties.  TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW AND EXCEPT AS SET FORTH IN SECTION 7.2, GEMPLUS, ITS SUPPLIERS, AND DISTRIBUTORS PROVIDE THE SOFTWARE AND ANY (IF ANY) SUPPORT SERVICES RELATED TO THE SOFTWARE ("SUPPORT SERVICES") WITHOUT ANY EXPRESS WARRANTY OR INDEMNITY, AND THE SOFTWARE AND SUPPORT SERVICES ARE PROVIDED "AS IS" AND "WITH ALL FAULTS". GEMPLUS HEREBY DISCLAIMS ALL IMPLIED INDEMNITIES AND WARRANTIES, INCLUDING, BUT NOT LIMITED TO, ANY (IF ANY) IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, TITLE, OR THAT THE OPERATION OF THE SOFTWARE WILL BE ACCURATE, VIRUS-FREE, OR WILL CORRESPOND TO ANY DOCUMENTATION.  SOME JURISDICTIONS DO NOT ALLOW EXCLUSIONS OF AN IMPLIED WARRANTY, SO THE ABOVE EXCLUSION MAY NOT FULLY APPLY TO YOU, AND YOU MAY HAVE 
+OTHER RIGHTS THAT VARY BETWEEN JURISDICTIONS.
+
+7.2 	Limited Warranty Remedy. Gemplus warrants for a period of 90 days from the date of purchase that the medium on which the Software is provided will be free from defects in material and workmanship. This limited warranty covers only such defects. This limited warranty does not cover any other defects or problems of any kind. 
+Gemplus's sole obligation, and your exclusive remedy, under the limited warranty set forth in this Section 7.2 shall be, at the sole discretion of Gemplus, to supply you with a corrected or replacement copy of the Software or a refund of all amounts received by Gemplus from you for the subject Software provided under this EULA.  Any replacement Software will be warranted as set forth above for the remainder of the original warranty period or thirty (30) days from your receipt of such replacement Software, whichever is longer. This warranty gives you specific legal rights, and you may have other rights that vary between jurisdictions.  
+
+7.3 	Gemplus does not warrant that the Software will be resistant to all possible efforts to defeat or disable its functions, including its security mechanisms, and Gemplus shall not incur, and disclaims, any liability in this respect.  Security mechanisms' resistance and strength necessarily evolve according to the applicable state of the art in security and with reference to the emergence of new technologies and methods developed in efforts to defeat or disable such mechanisms.  To the maximum extent permissible by law, Gemplus shall not be held liable for any third party actions and in particular in case of any successful effort to defeat or disable security functions of the Software, or computing devices and equipment using, accessing or incorporating the Software.
+
+7.4 	NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY GEMPLUS, ITS DEALERS, DISTRIBUTORS, AGENTS OR EMPLOYEES CREATES A WARRANTY AND YOU MAY NOT RELY ON ANY SUCH INFORMATION OR ADVICE.
+
+8. 	Exclusion of Incidental, Consequential and Certain Other Damages.  TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL GEMPLUS OR ITS SUPPLIERS OR DISTRIBUTORS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, REVENUES OR CONFIDENTIAL OR OTHER INFORMATION, FOR BUSINESS INTERRUPTION, OR LOSS OF PRIVACY), ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OF OR INABILITY TO USE THE SOFTWARE PRODUCT OR OTHERWISE UNDER OR IN CONNECTION WITH ANY PROVISION OF THIS EULA,  IN TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, BREACH OF CONTRACT OR UNDER ANY OTHER LEGAL THEORY, AND EVEN IF GEMPLUS OR ANY SUPPLIER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU.
+
+9. 	Limitation of Liability and Remedies.  Notwithstanding any damages that you might incur for any reason 
+whatsoever (including, without limitation, all damages referenced above and all direct or general damages), the entire liability of Gemplus and any of its suppliers under this EULA and your exclusive remedy for all of the foregoing is limited to the greater of the amount actually paid by you for the Software or U.S. $50.00.  The foregoing limitations, exclusions and disclaimers shall apply to the maximum extent permitted by applicable law, even if such remedy fails its essential purpose.  You hereby waive and forever release Gemplus from any and all claims in excess of that amount.
+
+10. 	General Provisions.  This EULA contains the entire agreement between the parties with respect to its subject matter, and supersedes all prior or contemporaneous agreements or understandings (oral or written). This EULA is governed by and shall be interpreted in accordance with the laws of the jurisdiction or location ("Location") of the offices of the Gemplus entity distributing the Software to you or as indicated in the documentation accompanying the Software, without giving effect to any applicable choice of law principles.  Any and all disputes, claims or legal proceedings arising hereunder shall be subject to the nonexclusive jurisdiction of the competent courts of the Location.  This EULA is not governed by the United Nations Convention on Contracts for the International Sales of Goods, the application of which is expressly excluded.  This EULA may not be modified except by a written addendum issued by a duly authorized representative of Gemplus.  No provision of this EULA can be waived unless such waiver is in writing and signed by a duly authorized representative of Gemplus.  Unless you notify Gemplus that you prefer not to be listed as a customer, which you may do by emailing us at hotline@gemplus.com, Gemplus may list you as a customer and describe in general terms the services provided by Gemplus under this EULA in proposals and other marketing materials and Gemplus may use your logos and trademarks in support thereof.  If any part of this EULA is found to be unenforceable or void, the remainder that part shall be limited or eliminated to the minimum extent necessary so that the remainder of this EULA shall otherwise stay valid and enforceable.
+
+If you have any questions about this EULA, please immediately contact Gemplus at www.gemplus.com.
+
+
+=============================================
+
+This product contains code from pcsc-lite http://pcsclite.alioth.debian.org/
+
+Copyright (c) 1999-2003 David Corcoran <corcoran@linuxnet.com> All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in the
+   documentation and/or other materials provided with the distribution.
+3. The name of the author may not be used to endorse or promote products
+   derived from this software without specific prior written permission.
+
+Changes to this license can be made only by the copyright author with explicit written consent.
+
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+=============================================
+
+This product contains code from OpenSC
+http://www.opensc-project.org/
+
+The files from OpenSC are:
+./src/libopensc/asn1.c
+./src/libopensc/asn1.h
+./src/libopensc/card.c
+./src/libopensc/cards.h
+./src/libopensc/dir.c
+./src/libopensc/errors.c
+./src/libopensc/errors.h
+./src/libopensc/internal.h
+./src/libopensc/log.c
+./src/libopensc/log.h
+./src/libopensc/opensc.h
+./src/libopensc/padding.c
+./src/libopensc/pkcs15.c
+./src/libopensc/pkcs15.h
+./src/libopensc/pkcs15-algo.c
+./src/libopensc/pkcs15-cache.c
+./src/libopensc/pkcs15-cert.c
+./src/libopensc/pkcs15-data.c
+./src/libopensc/pkcs15-pin.c
+./src/libopensc/pkcs15-prkey.c
+./src/libopensc/pkcs15-pubkey.c
+./src/libopensc/pkcs15-syn.c
+./src/libopensc/pkcs15-wrap.c
+./src/libopensc/sc.c
+./src/libopensc/sec.c
+./src/libopensc/types.h
+./src/libopensc/ui.h
+./src/scconf/scconf.c
+./src/scconf/scconf.h
+
+
+The GNU LESSER GENERAL PUBLIC LICENSE can be found in
+/usr/share/common-licenses/LGPL-2.1
