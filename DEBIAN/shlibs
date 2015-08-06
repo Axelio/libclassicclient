@@ -1,0 +1,6 @@
+libidkit 2 libclassicclient
+libgclib 1.8.0 libclassicclient
+libTokenPKCS15 1.8.0 libclassicclient
+libgck2015x 1.8.0 libclassicclient
+libTokenIASC 1.8.0 libclassicclient
+libgbgeneric 0 libclassicclient

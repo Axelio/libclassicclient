@@ -1,0 +1,33 @@
+#!/bin/bash
+
+DO_BIO=1
+
+if [ $DO_BIO -ne 0 ]; then
+    # Let's take care of the libsqlite3 installation
+    LIBCTR=0
+    FILES=`locate libsqlite3`
+    for i in $FILES;
+    do
+        let LIBCTR+=1
+    done
+
+    if [ $LIBCTR -gt 0 ]; then
+        if [ ! -f /usr/lib/libsqlite3.so ]; then
+            echo "WARNING: libsqlite3.so could not be found. Creating symbolic link..."
+            pushd /usr/lib
+            LIBSQLITE3_SO=`find | grep libsqlite3.so.[0-9].[0-9].[0-9]`
+            sudo ln -s $LIBSQLITE3_SO libsqlite3.so
+            popd
+            echo "Creating symbolic link done."
+        fi
+    else
+        echo "ERROR: libsqlite3 could not be found. Please install it by doing 'sudo apt-get install libsqlite3' and run the ClassicClient installation again."
+    fi
+fi
+
+if [ "$1" = "configure" ]; then
+        ldconfig
+fi
+
+sudo /etc/init.d/udev stop
+sudo /etc/init.d/udev status || sudo /etc/init.d/udev start
