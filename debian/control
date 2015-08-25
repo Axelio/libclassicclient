@@ -1,11 +1,13 @@
-Package: libclassicclient
-Version: 7.0.0-1canaima
-Architecture: i386
+Source: libclassicclient
+Build-Depends: debhelper (>= 9.0.0), cdbs
+Standards-Version: 3.9.4
 Maintainer: Axel Díaz <diaz.axelio@gmail.com>
-Installed-Size: 16440
-Depends: libatk1.0-0 (>= 1.12.4), libc6 (>= 2.7), libcairo2 (>= 1.2.4), libfontconfig1 (>= 2.9.0), libfreetype6 (>= 2.2.1), libgcc1 (>= 1:4.1.1), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.16.0), libgtk2.0-0 (>= 2.8.0), libncurses5 (>= 5.5-5~), libpango1.0-0 (>= 1.14.0), libpcsclite1, libqtcore4 (>= 4:4.8.0), libqtgui4 (>= 4:4.5.3), libssl1.0.0 (>= 1.0.0), libstdc++6 (>= 4.6), libtinfo5, libusb-0.1-4 (>= 2:0.1.12), pcscd
 Section: libs
 Priority: optional
+
+Package: libclassicclient
+Architecture: i386
+Depends: libatk1.0-0 (>= 1.12.4), libc6 (>= 2.7), libcairo2 (>= 1.2.4), libfontconfig1 (>= 2.9.0), libfreetype6 (>= 2.2.1), libgcc1 (>= 1:4.1.1), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.16.0), libgtk2.0-0 (>= 2.8.0), libncurses5 (>= 5.5-5~), libpango1.0-0 (>= 1.14.0), libpcsclite1, libqtcore4 (>= 4:4.8.0), libqtgui4 (>= 4:4.5.3), libssl1.0.0 (>= 1.0.0), libstdc++6 (>= 4.6), libtinfo5, libusb-0.1-4 (>= 2:0.1.12), pcscd
 Description: Gemalto Classic Client for Linux
  This package provides a PKCS#11 token for Classic cards
  .
